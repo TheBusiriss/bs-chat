@@ -3,7 +3,7 @@
 A stable FiveM chat resource with:
 
 - `/me`, `/do`, `/ooc` (and prefixless: `me waves`, `do looks around`)
-- `/ems` and `/police` channels (job-gated)
+- `/emsc` and `/pdc` channels (job-gated)
 - Error/system/server messages
 - Client-side distance filtering for roleplay commands
 
